@@ -6,7 +6,7 @@ const About = () => {
       <div className="about-me">
         <h3 className="title">About Me</h3>
         <p className="para">
-        Final-year CSE-AI student and full-stack/AI-ML engineer who ships working systems — from a CNN-based audio deepfake detector trained on 120,000+ samples to a userspace TCP/IP stack built from raw bytes in C++. I build with React, Node.js, and PyTorch, and enjoy turning research-grade ideas into deployed, working products.
+        Final-year CSE (Artificial Intelligence) student targeting AI/ML Engineer roles, with hands-on experience building machine learning and deep learning systems end-to-end – from custom transformer pretraining and multi-GPU (FSDP) training to a batched, low-latency inference-serving pipeline. Also comfortable working close to the metal, having constructed a full TCP/IP stack from raw bytes in C++, which reinforces systems fundamentals that support efficient ML infrastructure and MLOps.
         </p>
       </div>
     </div>
