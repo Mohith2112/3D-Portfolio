@@ -22,7 +22,7 @@ const projects = [
     title: "LLM-From-Scratch",
     category: "AI/ML · LLM Pretraining, Distributed Training & Serving",
     tools: "PyTorch, FastAPI, torchrun/FSDP, custom BPE, DPO",
-    image: "/images/placeholder.webp", // TODO: replace with an LLM-From-Scratch banner
+    image: "/images/llm-from-scratch.png",
     link: "https://huggingface.co/spaces/Mickeylabs/llm-from-scratch-demo",
   },
 ];
