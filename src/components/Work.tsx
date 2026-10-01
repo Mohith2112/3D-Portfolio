@@ -19,11 +19,11 @@ const projects = [
     link: "https://asciinema.org/a/AfidtQWsDJLPtf2H",
   },
   {
-    title: "NeonAura AI",
-    category: "XR Hand-Tracking Platform",
-    tools: "Three.js, MediaPipe Hands, WebGL",
-    image: "/images/neonaura.png",
-    link: "https://neonaura-ai.vercel.app/app.html",
+    title: "LLM-From-Scratch",
+    category: "AI/ML · LLM Pretraining, Distributed Training & Serving",
+    tools: "PyTorch, FastAPI, torchrun/FSDP, custom BPE, DPO",
+    image: "/images/placeholder.webp", // TODO: replace with an LLM-From-Scratch banner
+    link: "https://huggingface.co/spaces/Mickeylabs/llm-from-scratch-demo",
   },
 ];
 
