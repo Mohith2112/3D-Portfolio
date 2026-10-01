@@ -39,13 +39,13 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>DSA with C++</h4>
-                <h5>LeetCode, HackerRank</h5>
+                <h4>LLM-From-Scratch</h4>
+                <h5>Personal Project · PyTorch</h5>
               </div>
               <h3>NOW</h3>
             </div>
             <p>
-            Final-year CSE-AI student focused on building strong problem-solving skills through DSA in C++, with a 5-star HackerRank rating across 30+ SQL challenges.
+            Implemented a decoder-only transformer from scratch (RoPE, RMSNorm, SwiGLU, GQA) with a custom BPE tokenizer and multi-GPU FSDP pretraining, plus a FastAPI batched-inference server with KV-caching that delivers a 2.36x inference speedup.
             </p>
           </div>
         </div>
